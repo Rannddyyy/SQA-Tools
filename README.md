@@ -1,10 +1,10 @@
 SQA-Tools
 ===============================
 
-1. [fill_space.sh](#1. fill_space.sh)
-2. [screenshot.sh](#2. screenshot.sh)
+1. [fill_space.sh](#fill_space.sh)
+2. [screenshot.sh](#screenshot.sh)
 
-## 1. fill_space.sh
+## fill_space.sh
 
 Fill android devices' storage space with dumpy file
 
@@ -22,7 +22,7 @@ usage: $0 [-r|SIZE]
         remaining available space's size(MB)
 ```
 
-## 2. screenshot.sh
+## screenshot.sh
 
 將 Android 裝置的畫面截圖，並傳送到桌面
 
