@@ -1,8 +1,8 @@
 SQA-Tools
 ===============================
 
-1. [fill_space.sh](#1fill_spacesh)
-2. [screenshot.sh](#2screenshotsh)
+1. [fill_space.sh](#1-fill_spacesh)
+2. [screenshot.sh](#2-screenshotsh)
 
 ## 1. fill_space.sh
 
